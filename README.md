@@ -27,3 +27,8 @@ Sebagai puncak dari periode kontrak Anda sebagai magang Data Scientist di ID/X P
 ### Sumber Daya yang Tersedia untuk Anda
 - [Dataset Pinjaman](https://rakamin-lms.s3.ap-southeast-1.amazonaws.com/vix-assets/idx-partners/loan_data_2007_2014.csv)
 - [Kamus Data](https://docs.google.com/spreadsheets/d/1iT1JNOBwU4l616_rnJpo0iny7blZvNBs/edit?rtpof=true&sd=true)
+
+Step i do
+![Devaldi Caliesta Octadiani_VIX_IDX Partners](https://github.com/devaldicaliesta/IDX-Partners/assets/76609813/c368643e-aa9d-4ff8-89fd-d1e337fad5a6)
+
+
