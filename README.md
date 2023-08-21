@@ -31,5 +31,5 @@ Sebagai puncak dari periode kontrak Anda sebagai magang Data Scientist di ID/X P
 Step i do
 ![Devaldi Caliesta Octadiani_VIX_IDX Partners](https://github.com/devaldicaliesta/IDX-Partners/assets/76609813/c368643e-aa9d-4ff8-89fd-d1e337fad5a6)
 
-###Visualisasi Data Coming Soon
+# Visualisasi Data Coming Soon
 
